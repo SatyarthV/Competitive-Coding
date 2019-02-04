@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Feb  3 18:20:45 2019
-
-@author: satyarthvaidya
-"""
-
 class Solution:
     def toLowerCase(self, str):
         e = list(str)
