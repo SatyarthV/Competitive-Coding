@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jul  3 09:56:07 2019
-
-@author: satyarthvaidya
-"""
-
 def sortedArrayToBST(nums):
     
     if not nums: 
